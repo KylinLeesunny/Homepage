@@ -7,7 +7,7 @@ var CookiePrefix = "ronithomepage_";
 var cmdPrefix = "!";
 var ssi = 0;
 var searchSources = [
-    ["b", "https://www.baidu.com/s?ie=UTF-8&wd={Q}", "Baidu"],
+    ["B", "https://www.baidu.com/s?ie=UTF-8&wd={Q}", "Baidu"],
     ["g", "https://www.google.com/?gws_rd=ssl#q={Q}", "Google"],
     ["u", "{Q}", "URL"],
 	["b", "https://search.bilibili.com/all?keyword={Q}", "Bilibili"],
